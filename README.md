@@ -13,3 +13,4 @@ This is a large devOps project that will help me deponstart my appiltyies in dev
 
 
 we will build a shoppoing e-commerce app using (Django MVC) -> testing and deploy it -> chagnes real-time 
+git remote add origin https://github.com/srosama/devOpsProject.git
